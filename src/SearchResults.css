@@ -1,0 +1,14 @@
+#SearchResults #HasResult, #SearchResultsList > div {
+    margin: 1em auto;
+    width: 40em;
+    max-width: 93vw;
+    background: #222;
+    color: #FFF;
+    padding: 0.5em;
+    border-radius: 0.5em;
+}
+#SearchResults h3 {
+    text-align: center;
+    color: #FFF;
+    font-size: 2em;
+}

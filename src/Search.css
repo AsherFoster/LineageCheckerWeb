@@ -1,0 +1,15 @@
+.search input[type=text]{
+    outline: none;
+    font-size: 1.5em;
+    padding: 0.2em 0.5em;
+}
+
+.search input[type=submit]{
+    font-size: 1.3em;
+    margin-left: 1.5em;
+    padding: 0.5em;
+    outline: none;
+    border: none;
+    background: #D64A4B;
+    color: #FFF;
+}

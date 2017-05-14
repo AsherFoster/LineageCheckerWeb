@@ -1,0 +1,27 @@
+#App-backdrop{
+    width: 100vw;
+    height: 100vh;
+    top: 0;
+    background: -webkit-linear-gradient(#137ca4, #32B1BA);
+    background: linear-gradient(#137ca4, #32B1BA);
+    position: fixed;
+}
+
+#App-header{
+    text-align: center;
+    width: 100vw;
+    position: fixed;
+    top: 0;
+}
+
+h1{
+    color: #FFF;
+    margin: 0;
+    padding: 20vh 0 1.5em;
+    font-weight: 300;
+    font-size: 4em;
+}
+
+#SearchResults{
+    margin-top: 80vh;
+}

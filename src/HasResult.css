@@ -1,0 +1,14 @@
+#HasResult{
+    display: flex;
+}
+#HasResultIcon{
+    flex-shrink: 1;
+    margin: 0 1.5em;
+}
+
+#HasResultIcon i{
+    font-size: 100px;
+}
+#HasResultText{
+    margin: auto 0 auto 0;
+}

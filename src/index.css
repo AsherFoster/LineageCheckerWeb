@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Raleway:300,400");
+*{
+  position: relative;
+  font-family: "Raleway", "Arial", sans-serif;
+}
+body {
+  margin: 0;
+  padding: 0;
+  font-family: sans-serif;
+  height: 100vh;
+}
+
